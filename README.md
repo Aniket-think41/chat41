@@ -3,7 +3,7 @@ Question-answer prompt by using the dockerization process with groq api with lla
 Back-End:
 1. npm i 
 2. npm install requirements.txt
-3. export GROQ_API_KEY=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   // use your own key
+3. export GROQ_API_KEY=use your own key  // use your own key
 4. node server.js
 
 Front-End: 
